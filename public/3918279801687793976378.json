@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "111995991095",
+    "project_id": "rafifatih-dev",
+    "storage_bucket": "rafifatih-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111995991095:android:af02c87aa841817675bbb2",
+        "android_client_info": {
+          "package_name": "com.rafifatihdev.craftbuildingguides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmGMoKDopxM18h0HqGUkU5wY7k2GUbXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111995991095:android:3faf194b0b145ecd75bbb2",
+        "android_client_info": {
+          "package_name": "com.rafifatihdev.entityskinsforcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmGMoKDopxM18h0HqGUkU5wY7k2GUbXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111995991095:android:c1d64dc3e0b998f975bbb2",
+        "android_client_info": {
+          "package_name": "com.rafifatihdev.pizzatowerdefeatbossesguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmGMoKDopxM18h0HqGUkU5wY7k2GUbXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111995991095:android:65700a035afde64675bbb2",
+        "android_client_info": {
+          "package_name": "com.rafifatihdev.stumbleguyswallpaperhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmGMoKDopxM18h0HqGUkU5wY7k2GUbXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111995991095-pr2o8fgtca8c6kk0frq21r4nvo58usgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
